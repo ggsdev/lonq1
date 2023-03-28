@@ -7,10 +7,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ggsdev&bg_color=red&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true)](https://github.com/lonq1/github-readme-activity-graph)
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ggsdev&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaac545454&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ggsdev&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ggsdev&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-![Snake animation](https://github.com/ggsdev/ggsdev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ggsdev/blob/output/github-contribution-grid-snake.svg)
 
 <!--  <div style="">
 
